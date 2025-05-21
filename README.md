@@ -66,13 +66,12 @@ Para obtener ayuda, puedes utilizar las siguientes vías:
 
 Desarrollado por [Sebastian Narvaez](https://github.com/sebastiannarvaez23).
 
-![image](https://github.com/user-attachments/assets/b6a8ef8e-d509-4327-af8d-ca6cf29bef52)
-
-
-
+## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Estado del proyecto
 
 **Estado:** Terminado.
+
+![image](https://github.com/user-attachments/assets/b6a8ef8e-d509-4327-af8d-ca6cf29bef52)
