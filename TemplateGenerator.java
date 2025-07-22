@@ -32,7 +32,7 @@ public class TemplateGenerator {
     public static void logError(String message, Exception e) {
         try {
             
-            String jarDir = new File(ViewTemplate.class.getProtectionDomain().getCodeSource().getLocation().toURI()).getParent();
+            String jarDir = new File(TemplateGenerator.class.getProtectionDomain().getCodeSource().getLocation().toURI()).getParent();
             File logFile = new File(jarDir, "application.log");
 
             FileWriter logWriter = new FileWriter(logFile, true);
