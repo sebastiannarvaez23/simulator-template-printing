@@ -74,4 +74,4 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 **Estado:** Terminado.
 
-![image](https://github.com/user-attachments/assets/b6a8ef8e-d509-4327-af8d-ca6cf29bef52)
+![image](https://github.com/user-attachments/assets/b3e02937-d58e-4681-b2cc-dd5cb3529d79)
